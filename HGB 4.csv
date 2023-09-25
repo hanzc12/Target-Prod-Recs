@@ -1,0 +1,11 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
+1,Eden Freestanding Bath Gloss White 1500mm,Baths,,https://www.highgrovebathrooms.com.au/media/catalog/product/e/d/eden_-_fbed1500-w.jpg,$1390.00,https://www.highgrovebathrooms.com.au/product/eden-freestanding-bath-gloss-white-1500mm/, , , ,,,,,,,,,,
+2,Lucini Freestanding Bath Gloss White 1500mm,Baths,,https://www.highgrovebathrooms.com.au/media/catalog/product/l/u/lucini_-_luc1500-w.jpg,$1350.00,https://www.highgrovebathrooms.com.au/product/lucini-freestanding-bath-gloss-white-1500mm/, , , ,,,,,,,,,,
+3,Acacia Freestanding Bath Matte White 1700mm,Baths,,https://www.highgrovebathrooms.com.au/media/catalog/product/a/c/acacia_-_ac1700-m.jpg,$1750.00,https://www.highgrovebathrooms.com.au/product/acacia-freestanding-bath-matte-white-1700mm/, , , ,,,,,,,,,,
+4,Aspen Freestanding Baths Matte White 1500mm,Baths,,https://www.highgrovebathrooms.com.au/media/catalog/product/a/s/aspen_-_as1500-m.jpg,$1590.00,https://www.highgrovebathrooms.com.au/product/aspen-freestanding-bath-matte-white-1500mm/, , , ,,,,,,,,,,
