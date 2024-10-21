@@ -1,0 +1,11 @@
+## RECSRecommendations Upload File,,,,,,,,,,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,,,,,,,
+## RECS,,,,,,,,,,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.custom1,entity.custom2,entity.custom3,entity.custom4,entity.custom5,entity.custom6,entity.custom7,entity.custom8,entity.custom9,entity.custom10,...
+1,Canon EOS R5 Mirrorless Camera,,,"https://www.digidirect.com.au/media/catalog/product/0/1/01_k421_front_body.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700","$4,616.00 ",https://www.digidirect.com.au/canon-eos-r5-mirrorless-camera,,,,,,,,,,,,,
+2,Fujifilm X-S20 Mirrorless Camera with XC 15-45mm Lens,,,"https://www.digidirect.com.au/media/catalog/product/f/u/fujifilm_0006_x-s20_leftnanameue_xc15-45.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700","$2,399.00 ",https://www.digidirect.com.au/fujifilm-x-s20-mirrorless-camera-with-xc-15-45mm-lens,,,,,,,,,,,,,
+3,Nikon Z6 III Mirrorless Camera,,,"https://www.digidirect.com.au/media/catalog/product/1/7/1718610932_1834803.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700","$3,699.00 ",https://www.digidirect.com.au/nikon-z6-iii-mirrorless-camera,,,,,,,,,,,,,
+4,Panasonic LUMIX GH7 Mirrorless Camera,,,"https://www.digidirect.com.au/media/catalog/product/g/h/gh7_body_front_k_1_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700","$3,399.00 ",https://www.digidirect.com.au/panasonic-lumix-gh7-mirrorless-camera,,,,,,,,,,,,,
